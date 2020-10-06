@@ -80,6 +80,7 @@ def make_text(chains):
     """Return text from chains."""
 
     words = []
+    = choice(list(chains.values()))
 
     # your code goes here
 
